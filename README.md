@@ -6,8 +6,8 @@
 ![alt](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F126861%2F90386757-fd96-8ba6-3477-485669713c55.png?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&w=1400&fit=max&s=fa8b36a46d83e720b36e1584fcc231e0)
 > フォレストページ  
 > エムペ
->> リゼ.
-| 左揃え | 中央揃え | 右揃え | 
-|:---|:---:|---:|
-|1 |2 |3 |
-|4 |5 |6 |
+>> リゼ.  
+| 左揃え | 中央揃え | 右揃え |   
+|:---|:---:|---:|  
+|1 |2 |3 |  
+|4 |5 |6 |  
